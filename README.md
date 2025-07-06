@@ -5,9 +5,7 @@ A simple and stylish weather web application built using **HTML**, **CSS**, and 
 ---
 
 ## 🚀 Live Demo
-
-👉 **[Live Demo](https://your-username.github.io/weather-web-app/)**  
-*(Replace this link with your actual hosted project URL)*
+https://neerajteja17.github.io/WEATHER-WEB-APPLICATION/
 
 ---
 
